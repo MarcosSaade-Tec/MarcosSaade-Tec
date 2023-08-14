@@ -1,0 +1,2 @@
+- 🎓 Strudent account of https://github.com/marcossaade
+- 🔵 First semester Computational Technologies Engineering @ Tec de Monterrey.
